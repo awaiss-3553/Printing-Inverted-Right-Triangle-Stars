@@ -1,1 +1,1 @@
-# Printing-Inverted-Right-Triangle-Stars
+# Printing-Inverted-Right-Triangle-Stars.
